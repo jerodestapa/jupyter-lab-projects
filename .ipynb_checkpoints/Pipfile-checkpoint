@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "*"
+spacy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+numpy = "*"
+google-api-python-client = "*"
+oauth2client = "*"
+google-api-python-client-py3 = "*"
+google-auth = "*"
+oauthlib = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+bs4 = "*"
+lxml = "*"
+html5lib = "*"
+six = "*"
+selenium = "*"
+
+[requires]
+python_version = "3.7"
